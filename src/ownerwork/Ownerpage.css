@@ -1,0 +1,25 @@
+
+.app {
+    background: brown;
+    text-align: left;
+    height: 100vh;
+}
+h1 {
+    color: #165a72;
+    margin: 50px auto;
+    font-size: 40px;
+}
+
+h2 {
+    color: #165a72;
+}
+
+.hii{
+    margin: 0;
+    padding: 0;
+    text-align: left !important;
+    position: absolute;
+    left: 0%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}

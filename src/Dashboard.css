@@ -1,0 +1,24 @@
+/* .abc {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap-reverse;
+} */
+.dashboard {
+  width: 100vw;
+  height: 90vh;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    max-width: 3500px;
+  }
+.dashboard__image {
+    width: 200%;
+    z-index: -1;
+    margin-bottom: 250px;
+    max-width:100%
+    /* mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
+}
